@@ -6,6 +6,7 @@ public class Hello {
     public static void main(String[] args){
         System.out.println("Hello World");
         System.out.println("Goodnight World");
+        System.out.println("The Date is: ");
         System.out.println(new Date());
     }
 }
